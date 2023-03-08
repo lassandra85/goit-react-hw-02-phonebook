@@ -37,13 +37,11 @@ export const Number = styled.span`
 `;
 
 export const Btn = styled.button`
-  /* max-width: 100px; */
   padding: 5px 15px;
   flex-basis: 15%;
   font-size: 18px;
   font-weight: 500;
   color: var(--accent);
-  /* background-color: transparent; */
   background-color: rgb(225, 195, 244);
   border-radius: 5px;
   border: 1px solid var(--accent);

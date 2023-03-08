@@ -47,8 +47,7 @@ export const Btn = styled.button`
   font-size: 24px;
   font-weight: 500;
   color: var(--accent);
-  /* background-color: transparent; */
-   background-color: rgb(225, 195, 244);
+  background-color: rgb(225, 195, 244);
   border-radius: 5px;
   border: 1px solid var(--accent);
   box-shadow: var(--main-shadow);
